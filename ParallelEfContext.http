@@ -1,0 +1,6 @@
+@ParallelEfContext_HostAddress = http://localhost:5127
+
+GET {{ParallelEfContext_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
